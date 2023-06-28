@@ -9,7 +9,5 @@ and doesn't require a seperate server process.
 
 # Video Demo
 
-This is a video of me using the project
-
 https://github.com/Nmast78/Personal-Finance-Desktop-App/assets/86863161/616f67bc-786a-4a87-a35c-ebfb396388a5
 
