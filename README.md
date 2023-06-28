@@ -1,4 +1,4 @@
-# Personal-Finance-Desktop-App
+# Personal Finance Desktop App
 A windows desktop application that is designed for beginners, preteens and teenagers, to manage their monthly finances.
 
 # About
