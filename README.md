@@ -7,7 +7,7 @@ creating graphical user interfaces.
 The application also uses SQLite for data storage.  SQLite is a database library written in C.  I chose SQLite because it is lightweight
 and doesn't require a seperate server process.
 
-#Video Demo
+# Video Demo
 
 This is a video of me using the project
 
