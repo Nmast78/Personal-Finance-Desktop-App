@@ -1,7 +1,7 @@
 # Personal Finance Desktop App
 A windows desktop application that is designed for beginners, preteens and teenagers, to manage their monthly finances.
 
-:arrow_down: [Click to Download Your Own Version of the Project](
+:arrow_down: [Click Here to Download Your Own Version of the Project](https://github.com/Nmast78/Personal-Finance-Desktop-App/releases/download/1.0.0/Personal.Finance.App.-.Copy.exe)
 
 # About
 This application was written in python using the popular graphics library PyQt5.  PyQt5 is a python plugin that uses the Qt toolkit for
